@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="accf3527-fc5b-4364-8f58-c31e185d4516" name="Changes" comment="06.09.22 RestAPI_JSON">
-      <change afterPath="$PROJECT_DIR$/src/com/java/Lesson_55_GET_POST.java" afterDir="false" />
+    <list default="true" id="accf3527-fc5b-4364-8f58-c31e185d4516" name="Changes" comment="06.09.22 RestAPI_GET_POST">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/Lesson_56_REST_standards.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/Lesson_53_Rest_api_meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/Lesson_53_Rest_api_meeting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662467278826</updated>
       <workItem from="1662467280794" duration="106000" />
-      <workItem from="1662467398604" duration="14327000" />
+      <workItem from="1662467398604" duration="16022000" />
     </task>
     <task id="LOCAL-00001" summary="06.09.22 RestAPI Creating">
       <created>1662467512335</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662615853159</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="06.09.22 RestAPI_GET_POST">
+      <created>1662631263269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662631263269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +104,7 @@
     <MESSAGE value="06.09.22 RestAPI Creating" />
     <MESSAGE value="06.09.22 RestAPI_meeting" />
     <MESSAGE value="06.09.22 RestAPI_JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.09.22 RestAPI_JSON" />
+    <MESSAGE value="06.09.22 RestAPI_GET_POST" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.09.22 RestAPI_GET_POST" />
   </component>
 </project>
